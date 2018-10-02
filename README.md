@@ -1,1 +1,9 @@
-# simple_chatbot_but_effective
+# Simple chatbot but effective
+
+This is a retival based chatbot.
+
+## Libraries
+- NumPy
+- flask
+- nltk
+- sklearn
